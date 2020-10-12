@@ -18,7 +18,7 @@ git checkout <name_of_branch>   :- To enter a branch/master branch
 
 git remote add origin <link_of_the_repo>    :- To link Local Repository & Remote Repository. Execute this command only once with link, next time onwards don't add link.
 
-git push -u master    :- To push files from Local Repository & Remote Repository
+git push -u origin master    :- To push files from Local Repository & Remote Repository
 
 git commit -am "Commit_Name"    :- To add a file directly to Local Repository without Staging
 
