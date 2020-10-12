@@ -1,0 +1,26 @@
+git init    :- To initailize git in a folder
+
+git add <file_name>   :- To add a file to stage area(index)
+
+git rm --cache <file_name>    :- To remove a file from stage(unstage a file)
+
+git status    :- To check the status of git
+
+git commit -m "Commit_message"    :- To commit a change in file in Local Repository
+
+git branch <branch_name>    :- To create a branch, named as branch_name
+
+git merge <branch_name>     :- To merge a branch, named as branch_name , into main branch
+
+git checkout <name_of_branch>   :- To enter a branch/master branch
+
+#In GitHub Repository
+
+git remote add origin <link_of_the_repo>    :- To link Local Repository & Remote Repository. Execute this command only once with link, next time onwards don't add link.
+
+git push -u master    :- To push files from Local Repository & Remote Repository
+
+git commit -am "Commit_Name"    :- To add a file directly to Local Repository without Staging
+
+
+Video for Reference: https://www.youtube.com/watch?v=iR5WIknxdkY
