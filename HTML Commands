@@ -10,6 +10,9 @@
 
 <!-->...<-->    :To comment text
 
+TEXT INDENTATION
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <h1>...</h1>  :Heading sizes. Varies from 1 to 6.
 
 <p>...</p>  Start a paragraph
@@ -22,6 +25,9 @@
 
 <img src="image_location/link" alt="text_here">   :To add an image and to display an alternate text if the image is not visible 
 
+LISTS
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <ol>...</ol>   :To initiate an ordered list
 
 <ul>...</ul>    :To initiate an unordered list
@@ -31,3 +37,38 @@
 <div>...</div>    :
 
 <spans>...</spans>    :
+
+TABLE
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<table>...</table>    :To initiate a new table
+
+<table border="number_here">...</table>   :To add border to tables
+
+<thead>...</thead>    :To write the first row of the table containing headings of all individual column
+
+<th>...</th>    :To enter the headings of individual column
+
+<tr>...</tr>    :To initiate a row 
+
+<td>...</td>    :To enter data in each cell
+
+FORMS
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<form class="1" action="2" method="3">...</form>    :To initiate a form
+                                                     1.
+                                                     2. Input the action that needs to be done if the a button is clicked. Eg:- If you want to open a link on clicking the button
+                                                        enter the link here
+                                                     3. Could be "get" or "post" 
+                                                     
+<input type="1" name="2" value="3" 4>   :To recieve some input from the user
+                                       1. The type of data that should be acceptable from user.
+                                       2. A variable name where the input data will be stored.
+                                       3. The default value that will be displayed. Use "placeholder" instead of "value" to disappear the default value, when user clicks.
+                                       4. You can use "required" attribute to make this field compulsory for user to enter.
+                                       
+                                       
+                                       
+ 
+
