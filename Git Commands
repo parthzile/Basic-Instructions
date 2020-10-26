@@ -22,5 +22,4 @@ git push -u origin master    :- To push files from Local Repository & Remote Rep
 
 git commit -am "Commit_Name"    :- To add a file directly to Local Repository without Staging
 
-
 Video for Reference: https://www.youtube.com/watch?v=iR5WIknxdkY
