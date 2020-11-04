@@ -1,4 +1,4 @@
-install virtualenvwrapper-win   :To install virtualwrapper
+pip install virtualenvwrapper-win   :To install virtualwrapper
 
 mkvirtualenv <name>   :To make a new virtual env
 
