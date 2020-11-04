@@ -2,10 +2,6 @@ pip install django	: To install Django
 
 django-admin --version	:To check version of Django
 
-pip install virtualenvwrapper-win	:To install a virtual machine
-
-mkvirtualenv <name_of_virtual_machine>	:To initialize a virtual machine
-
 pip install django	:To install Django
 
 mkdir <File_name>	:To create a file
