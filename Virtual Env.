@@ -1,0 +1,12 @@
+install virtualenvwrapper-win   :To install virtualwrapper
+
+mkvirtualenv <name>   :To make a new virtual env
+
+lsvirtualenv    :To list out all the existing virtual env
+
+rmvirtualenv    :To delete a virtual env
+
+workon <name>   :To enter a virtual env
+
+deactivate <name>   :To move out from a virtual env
+
