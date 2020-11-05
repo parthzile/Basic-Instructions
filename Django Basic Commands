@@ -14,7 +14,9 @@ dir	:To list all the files at a path
 
 python manage.py runserver	:To run inbuilt server
 
-http://127.0.0.1:8000/		Local host
+http://127.0.0.1:8000/		:Local host
+
+Ctrl+C    :To quit server
 
 python manage.py startapp <app_name>	:To initiate a new app
 
